@@ -1,0 +1,22 @@
+{
+  "Blogs": [
+    {
+      "title": "Ugali Recipe",
+      "body": "here are my thoughts on the new gov",
+      "author": "Medzah Kalume",
+      "id": 1
+    },
+    {
+      "title": "Javacript",
+      "author": "Gulam Mohhamed",
+      "body": "New record",
+      "id": 2
+    },
+    {
+      "title": "loren Impsum",
+      "author": "Boy wonder",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis erat ex. Etiam ultricies mi id leo viverra, ac pharetra justo congue. Nam vitae sem tincidunt, dignissim diam a, sagittis dui. Sed finibus finibus purus, a mollis ligula auctor eu. Phasellus sit amet eros in leo pretium luctus. Quisque ultrices justo sit amet tellus vulputate luctus. Nam dignissim egestas ante et ornare. Morbi quis volutpat magna. Curabitur commodo ultricies enim, quis mattis nisi volutpat sed. Nulla porttitor ut arcu eu mattis. Duis augue arcu, gravida quis tincidunt a, faucibus a nibh. Sed efficitur mollis venenatis.\n\nAenean id diam eu mauris congue commodo. In non tincidunt velit, non porta tellus. Aliquam dui quam, elementum ac commodo dignissim, mollis at leo. Proin maximus felis id est ullamcorper, quis egestas felis facilisis. Integer tincidunt sed felis id tempor. Cras blandit, est ac gravida vulputate, dui lorem aliquam mi, ac dignissim ligula elit sit amet elit. Etiam volutpat in nisl in fermentum.\n\nUt porttitor sagittis nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In luctus purus quis ullamcorper posuere. Etiam quam augue, pharetra ut lacinia vel, ultricies in erat. In hac habitasse platea dictumst. Duis id dapibus dolor. Integer id facilisis magna, id pharetra tortor.\n\nDuis ante velit, fringilla eu nisi a, cursus pulvinar sapien. Morbi molestie erat a odio venenatis malesuada. Etiam sit amet odio vitae tortor tincidunt tincidunt et et magna. In hac habitasse platea dictumst. Integer volutpat imperdiet ligula non convallis. Aliquam eget sem eget metus luctus placerat id et sapien. In hac habitasse platea dictumst. Etiam vehicula lorem eu velit blandit, quis vehicula orci congue. Maecenas sagittis neque non sapien ultricies egestas id a mi. Praesent fermentum diam vitae urna tincidunt, vel rutrum turpis pretium. Donec finibus lectus eget gravida ornare. Donec tempus neque metus, ut iaculis diam eleifend in. Sed fermentum scelerisque sem sed ultricies. Praesent malesuada sit amet quam eget consequat. Cras ut tincidunt lacus, ut tristique augue. Quisque non ligula et mauris vulputate rutrum.",
+      "id": 3
+    }
+  ]
+}

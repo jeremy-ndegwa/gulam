@@ -1,0 +1,9 @@
+.cardSection{
+    display: flex;
+    flex-direction: row;
+
+}
+.cardSection > div{
+    display: inline;
+    
+}

@@ -1,0 +1,24 @@
+.gallery{
+    position: absolute;
+    margin-top: 100px;
+}
+.imgs{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.imgs > .img-row{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.imgs > .img-row > img{
+    box-sizing: content-box;
+    padding: 10px;
+    margin: 0px 50px;
+    border: 1px solid black;
+
+}
